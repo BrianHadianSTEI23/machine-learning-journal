@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: machine_learning_journal
+Version: 0.1.0
+Summary: Personal ML fundamentals and experiments
+Requires-Python: >=3.10

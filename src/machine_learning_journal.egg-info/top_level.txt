@@ -1,0 +1,6 @@
+anova
+fundamentals
+linear-regression
+multiple-regression
+setup
+t-test

@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+src/anova/__init__.py
+src/fundamentals/__init__.py
+src/fundamentals/confusion-matrix/lib/main.py
+src/fundamentals/confusion-matrix/scratch/main.py
+src/fundamentals/cross-validation/__init__.py
+src/fundamentals/cross-validation/lib/__init__.py
+src/fundamentals/cross-validation/scratch/main.py
+src/machine_learning_journal.egg-info/PKG-INFO
+src/machine_learning_journal.egg-info/SOURCES.txt
+src/machine_learning_journal.egg-info/dependency_links.txt
+src/machine_learning_journal.egg-info/top_level.txt
+src/setup/__init__.py
+src/setup/config.py
+src/t-test/__init__.py

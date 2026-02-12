@@ -29,3 +29,5 @@ Confusion Matrix:
 | **Backend Dev**   | ❌ None    | ✅ High    | ⚠️ Medium   | ⚠️ Medium |
 | **Testing**       | ✅ High    | ✅ High    | ❌ None      | ⚠️ Medium |
 
+# Sources
+- https://www.youtube.com/watch?v=Kdsp6soqA7o&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=3
